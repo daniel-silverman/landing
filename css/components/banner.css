@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(https://source.unsplash.com/BfrQnKBulYQ/1300x700);
+  margin: 0 auto;
+  padding: 200px 0px;
+  color: white;
+}
+
+.container {
+  width: 900px;
+  margin: 0px auto;
+}
+
+.container h2 {
+  font-family: Open Sans;
+  font-weight: lighter;
+}
+

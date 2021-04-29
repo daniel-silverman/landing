@@ -1,0 +1,21 @@
+.container_card {
+  width: 900px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.card {
+  width: 250;
+  box-shadow: 3px 3px 15px rgb(200, 200, 200);
+  padding: 24px 24px;
+}
+
+.card img {
+  width: 150px;
+  height: 150px;
+}
+
+.tasks {
+  display: flex;
+  justify-content: space-around;
+}
